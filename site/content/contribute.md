@@ -19,7 +19,9 @@ experience stand on its own terms — and to build something with the kind of
 rigour that means the data can stand on its own.
 
 Fill out as much or as little as you are comfortable with. There are no wrong
-answers.
+answers. If you would rather talk than write, you can
+[book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive)
+instead.
 
 ---
 
