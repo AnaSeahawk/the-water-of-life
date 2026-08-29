@@ -1,34 +1,53 @@
 {{ define "main" }}
   <h1>The Water of Life</h1>
 
-  <p>An open-source, participatory observational archive collecting first-person
-  accounts of engagement with auto-urine practice.</p>
+  <p>Thousands of people are living this practice right now. They have been
+  for years, for decades, for generations. No institution has been willing
+  to collect their experiences. No trial has been conducted. No dataset
+  exists.</p>
 
-  <p>No claims. No diagnoses. No prescriptions. Just the data.</p>
+  <p>So we are building it ourselves.</p>
 
-  <hr>
-
-  <h2>What this is</h2>
-
-  <p>This archive holds self-reported experiences from practitioners, in their
-  own words, alongside everything else that was happening in their lives at the
-  time. It does not interpret, diagnose, or evaluate. It collects.</p>
-
-  <p>As of August 2026, no controlled clinical trial on auto-urine therapy in
-  humans has been conducted. The claim is not that someone studied it and found
-  it doesn't work. The claim is that no one has studied it at all — while
-  thousands of people are quietly living this practice. The data is everywhere.
-  No one with institutional authority has been willing to collect it.</p>
-
-  <p>The historical record spans five thousand years. The structured dataset of
-  self-reported experiences does not exist. This archive builds it.</p>
+  <p>This is an open-source, participatory archive of first-person accounts
+  from people who engage with auto-urine practice — in their own words,
+  in observational language, with the full picture of their lives alongside
+  it. No claims. No diagnoses. No prescriptions. Just the data that should
+  have been collected a long time ago.</p>
 
   <hr>
 
-  <h2>Contribute</h2>
+  <h2>Why this exists</h2>
 
-  <p>Your experience matters — not because it proves anything, but because it
-  exists. You can contribute in two ways:</p>
+  <p>The historical record goes back five thousand years. The practice is
+  referenced in the Damar Tantra, the Sushruta Samhita, the Hatha Yoga
+  Pradipika, and across Ayurvedic tradition. Armstrong's <em>The Water of
+  Life</em> (1944) documented decades of Western case histories.</p>
+
+  <p>And yet: as of August 2026, no controlled clinical trial on
+  auto-urine therapy in humans has been conducted. The institutional
+  position is that "no scientific evidence supports" the practice. But
+  that is not a conclusion reached after investigation. It is a refusal
+  to investigate.</p>
+
+  <p>The data is not missing. It is everywhere — in the lives of
+  practitioners who have been quietly doing this work for years. No one
+  with the authority to make it "count" has been willing to collect it.
+  The file is empty not because there is nothing to put in it, but because
+  no one has opened it.</p>
+
+  <p>This archive opens it.</p>
+
+  <hr>
+
+  <h2>Contribute your experience</h2>
+
+  <p>If you are living this practice, your experience belongs in the
+  record. Not because it proves anything — but because it exists, and
+  right now, no one is counting it.</p>
+
+  <p>Every entry that goes into this archive is something that did not
+  exist before. You are not just filling out a form. You are helping build
+  the dataset that institutions have refused to build.</p>
 
   <ul>
     <li><strong><a href="{{ "contribute/" | relURL }}">Fill out the template</a></strong> — a
@@ -38,7 +57,7 @@
   </ul>
 
   <p>You choose how you are identified: real name, pseudonym, or fully
-  anonymous.</p>
+  anonymous. Your experience. Your terms.</p>
 
   <hr>
 
@@ -55,15 +74,17 @@
     {{ end }}
   </ul>
   {{ else }}
-  <p><em>The archive is new. The first entries are being collected.</em></p>
+  <p><em>The archive is new. The first entries are being collected. Yours
+  could be one of them.</em></p>
   {{ end }}
 
   <hr>
 
-  <h2>Support this work</h2>
+  <h2>Keep this alive</h2>
 
-  <p>This archive is independent and unfunded. If it has been useful to you,
-  you can contribute to keeping it alive.</p>
+  <p>This archive is independent. There is no institution behind it, no
+  grant, no sponsor — just the conviction that this data should exist.
+  If you believe that too, you can help keep it going.</p>
 
   <div class="support-links">
     <a href="{{ .Site.Params.paypal }}">PayPal</a>
@@ -77,6 +98,6 @@
   <p>Read the <a href="{{ "methodology/founding-document/" | relURL }}">founding document</a>
   for the full reasoning behind the archive's design — why observational
   framing, why no diagnostic labels, why concurrent factors are mandatory,
-  and how this conversation started.</p>
+  and how the conversation that started all of this went.</p>
 
 {{ end }}
