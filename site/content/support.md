@@ -2,13 +2,13 @@
 title: Support the archive
 ---
 
-This archive exists because one person decided that if no institution was
-going to collect this data, she would start collecting it herself.
+I started this archive because I got tired of waiting for someone with
+authority to do it. No one was coming. So I began.
 
-There is no grant behind this. No sponsor. No organization. Just the work
-and the conviction that a five-thousand-year-old practice with thousands of
-living practitioners deserves at least one structured record of what people
-actually experience.
+There is no grant behind this. No sponsor. No organization. Just me, the
+work, and the conviction that a five-thousand-year-old practice with
+thousands of living practitioners deserves at least one structured record
+of what people actually experience.
 
 Running costs are near zero — the archive is hosted free on GitHub. What
 takes time is stewardship: reviewing contributions, transcribing interviews,
