@@ -2,28 +2,36 @@
 title: Contribute
 ---
 
-No institution is collecting this data. No researcher is building this
-dataset. If you are living this practice, your experience is part of a
-record that does not yet exist — unless you help build it.
+Your experience matters — not because it proves anything, but because it
+exists, and right now, no one is collecting it.
 
-That is what this page is for.
+An entry can be a few sentences. It doesn't need to be a medical history
+or a detailed report. In Armstrong's *The Water of Life*, many of the
+case histories are a single paragraph — a person, what they did, what
+they noticed. That is enough.
 
-Every entry that goes into this archive is something that did not exist
-before. Your experience matters — not because it proves anything, but
-because it exists, and right now, no one is collecting it. By sharing it
-here, you become part of building a record that is long overdue.
+> "A man of 40 had been troubled with a cough for three years. His
+> doctor told him he had a patch on one lung, and that he must enter
+> hospital. Instead, he undertook the urine therapy, and after
+> five weeks the cough had gone and has never returned."
+> — John W. Armstrong, *The Water of Life* (1944)
 
-This archive uses observational language: "I noticed," "I observed," "during
-this period." This is not to diminish what you experienced. It is to let your
-experience stand on its own terms — and to build something with the kind of
-rigour that means the data can stand on its own.
+That is a complete observation. What follows are questions to help you
+share yours. Answer as many or as few as you like — there is no minimum.
+The only section we always ask for is "the full picture," because knowing
+what else was happening in your life is what gives your entry its
+integrity. Even that can be a single sentence.
 
 Positive experiences, negative experiences, no noticeable effect, short
 experiments, long-term practices, and experiences that ended in stopping
 are all equally valuable here.
 
-Fill out as much or as little as you are comfortable with. There are no wrong
-answers. If you would rather talk than write, you can
+This archive uses observational language: "I noticed," "I observed,"
+"during this period." This is not to diminish what you experienced. It
+is to let your experience stand on its own terms.
+
+If you have more to share than a form can hold, or if you'd rather talk
+than type,
 [book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive)
 instead.
 
@@ -66,7 +74,7 @@ Contributors must be 18 or older.
 ## What brought you here
 
 <label for="what_brought">What were you noticing in your body or your life that led you to explore this practice? You do not need to name a condition or use any clinical terms.</label>
-<textarea name="what_brought" id="what_brought" rows="5"></textarea>
+<textarea name="what_brought" id="what_brought" rows="3"></textarea>
 
 ---
 
@@ -80,7 +88,7 @@ Contributors must be 18 or older.
 ## Your practice
 
 <label for="practice">Describe what you do — which pathways (internal, external, or both), how often, how long you have been engaged, whether your practice has changed over time. Be as specific as you are comfortable being.</label>
-<textarea name="practice" id="practice" rows="6"></textarea>
+<textarea name="practice" id="practice" rows="3"></textarea>
 
 <label>Internal engagement (check any that apply):</label>
 <div class="checkbox-group">
@@ -110,14 +118,14 @@ Contributors must be 18 or older.
 ## The full picture
 
 <label for="full_picture">What else was happening in your life during the period you are describing? Other treatments, diet changes, lifestyle shifts, stress levels, medications, supplements, environment. This section gives your entry its integrity.</label>
-<textarea name="full_picture" id="full_picture" rows="6"></textarea>
+<textarea name="full_picture" id="full_picture" rows="3"></textarea>
 
 ---
 
 ## What you observed
 
 <label for="observed">What changes, if any, did you notice? What stayed the same? What surprised you?</label>
-<textarea name="observed" id="observed" rows="6"></textarea>
+<textarea name="observed" id="observed" rows="3"></textarea>
 
 <label for="pauses">If you have ever paused or stopped your practice — what did you notice?</label>
 <textarea name="pauses" id="pauses" rows="4"></textarea>
@@ -134,7 +142,7 @@ Contributors must be 18 or older.
 ## Timeline
 
 <label for="timeline">When did you begin? How long have you been engaged? Any distinct phases, turning points, breaks and returns? What influenced whether you continued, changed, paused, stopped, or returned?</label>
-<textarea name="timeline" id="timeline" rows="5"></textarea>
+<textarea name="timeline" id="timeline" rows="3"></textarea>
 
 ---
 
@@ -159,7 +167,7 @@ Contributors must be 18 or older.
 ## Anything else
 
 <label for="anything_else">Is there something this form did not ask that you want to share?</label>
-<textarea name="anything_else" id="anything_else" rows="5"></textarea>
+<textarea name="anything_else" id="anything_else" rows="3"></textarea>
 
 ---
 
