@@ -9,15 +9,14 @@ record that does not yet exist — unless you help build it.
 That is what this page is for.
 
 Every entry that goes into this archive is something that did not exist
-before. You are not just filling out a form. You are helping build what
-institutions have refused to build. Your experience matters — not because
-it proves anything, but because it exists, and right now, no one is
-counting it.
+before. Your experience matters — not because it proves anything, but
+because it exists, and right now, no one is collecting it. By sharing it
+here, you become part of building a record that is long overdue.
 
 This archive uses observational language: "I noticed," "I observed," "during
 this period." This is not to diminish what you experienced. It is to let your
-experience stand on its own terms — and to build something rigorous enough
-that the people who dismiss this practice will have to look at the data.
+experience stand on its own terms — and to build something with the kind of
+rigour that means the data can stand on its own.
 
 Fill out as much or as little as you are comfortable with. There are no wrong
 answers.
