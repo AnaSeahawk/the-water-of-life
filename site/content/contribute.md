@@ -18,10 +18,16 @@ this period." This is not to diminish what you experienced. It is to let your
 experience stand on its own terms — and to build something with the kind of
 rigour that means the data can stand on its own.
 
+Positive experiences, negative experiences, no noticeable effect, short
+experiments, long-term practices, and experiences that ended in stopping
+are all equally valuable here.
+
 Fill out as much or as little as you are comfortable with. There are no wrong
 answers. If you would rather talk than write, you can
 [book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive)
 instead.
+
+Contributors must be 18 or older.
 
 ---
 
@@ -42,7 +48,7 @@ instead.
 <label for="age_range">Age range</label>
 <select name="age_range" id="age_range">
   <option value="">Prefer not to say</option>
-  <option value="under-20">Under 20</option>
+  <option value="18-19">18–19</option>
   <option value="20s">20s</option>
   <option value="30s">30s</option>
   <option value="40s">40s</option>
@@ -127,7 +133,7 @@ instead.
 
 ## Timeline
 
-<label for="timeline">When did you begin? How long have you been engaged? Any distinct phases, turning points, breaks and returns? What motivated you to stay consistent?</label>
+<label for="timeline">When did you begin? How long have you been engaged? Any distinct phases, turning points, breaks and returns? What influenced whether you continued, changed, paused, stopped, or returned?</label>
 <textarea name="timeline" id="timeline" rows="5"></textarea>
 
 ---
@@ -160,9 +166,10 @@ instead.
 ## Consent
 
 <div class="checkbox-group">
+  <label><input type="checkbox" name="consent_age" required> I am 18 years of age or older.</label>
   <label><input type="checkbox" name="consent_own" required> This is my own experience, described in my own words.</label>
   <label><input type="checkbox" name="consent_public" required> I understand this entry will be part of an open-source, publicly accessible archive.</label>
-  <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification and understand it is permanent for this entry.</label>
+  <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification for this entry.</label>
   <label><input type="checkbox" name="consent_no_claims" required> I understand the archive makes no medical claims and my contribution will not be used to make medical claims.</label>
   <label><input type="checkbox" name="consent_followup"> I am open to being contacted for a follow-up conversation.</label>
 </div>

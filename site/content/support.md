@@ -6,9 +6,9 @@ I started this archive because I got tired of waiting for someone with
 authority to do it. No one was coming. So I began.
 
 There is no grant behind this. No sponsor. No organization. Just me, the
-work, and the conviction that a five-thousand-year-old practice with
-thousands of living practitioners deserves at least one structured record
-of what people actually experience.
+work, and the conviction that a practice with thousands of living
+practitioners deserves at least one structured record of what people
+actually experience.
 
 Running costs are near zero — the archive is hosted free on GitHub. What
 takes time is stewardship: reviewing contributions, transcribing interviews,
@@ -29,9 +29,10 @@ Every contribution keeps the work moving. Thank you.
 
 ## Where the money goes
 
-- Domain and hosting costs
+- Future domain and infrastructure costs
 - Transcription tools for audio interviews
 - Stewardship time
-- Growing the archive's reach so more people can contribute
+- Archive maintenance and preservation
+- Outreach so more people can contribute
 
 This page will be updated as the archive grows and its needs change.
