@@ -8,7 +8,7 @@
   <script>
     let index = [];
 
-    fetch('/index.json')
+    fetch('{{ "index.json" | relURL }}')
       .then(r => r.json())
       .then(data => { index = data; });
 
