@@ -181,7 +181,7 @@ stays private, who has access, and how to request changes or removal.
   <label><input type="checkbox" name="consent_privacy" required> I have read and understand the <a href="/privacy/">Privacy & Data</a> page.</label>
   <label><input type="checkbox" name="consent_age" required> I am 18 years of age or older.</label>
   <label><input type="checkbox" name="consent_own" required> This is my own experience, described in my own words.</label>
-  <label><input type="checkbox" name="consent_public" required> I understand this entry will be part of an open-source, publicly accessible archive.</label>
+  <label><input type="checkbox" name="consent_public" required> I understand this entry will be published in a public archive and licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, meaning others may share and build on it with attribution.</label>
   <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification for this entry.</label>
   <label><input type="checkbox" name="consent_no_claims" required> I understand the archive makes no medical claims and my contribution will not be used to make medical claims.</label>
   <label><input type="checkbox" name="consent_followup"> I am open to being contacted for a follow-up conversation.</label>

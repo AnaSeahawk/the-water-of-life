@@ -140,6 +140,35 @@ knowingly collect data from anyone under 18.
 
 ---
 
+## Reuse and licensing
+
+Published archive entries are released under a
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+licence (CC BY 4.0).
+
+This means anyone — researchers, journalists, other projects, individuals
+— may read, share, quote, and build on the entries in this archive, as
+long as they credit the contributor (by their chosen identifier) and the
+archive.
+
+This is a deliberate choice. This archive exists because the data was
+never collected, and once collected, it was never shared openly. If
+someone wants to study these entries, publish an analysis, translate
+them, or mirror the archive — that is not a problem. That is the point.
+The whole reason this project exists is that gatekeeping kept this data
+out of reach. We are not going to collect it and then gatekeep it
+ourselves.
+
+Contributors control what they share and how they are identified. The
+licence applies to the published entry — the version you reviewed and
+approved. It does not apply to your private information (email, audio
+recordings), which is never published and never shared.
+
+If you are uncomfortable with your entry being reusable under these
+terms, you can request removal at any time.
+
+---
+
 ## Changes to this page
 
 If this privacy page is updated, the change will be visible in the
@@ -149,4 +178,4 @@ was accepted under the terms that existed when you submitted it.
 
 ---
 
-*Last updated: 2026-08-29*
+*Last updated: 2026-08-30*
