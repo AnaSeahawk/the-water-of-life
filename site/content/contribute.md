@@ -165,7 +165,12 @@ Contributors must be 18 or older.
 
 ## Consent
 
+Before submitting, please read the [Privacy & Data](/privacy/) page. It
+explains exactly what happens to your data — what becomes public, what
+stays private, who has access, and how to request changes or removal.
+
 <div class="checkbox-group">
+  <label><input type="checkbox" name="consent_privacy" required> I have read and understand the <a href="/privacy/">Privacy & Data</a> page.</label>
   <label><input type="checkbox" name="consent_age" required> I am 18 years of age or older.</label>
   <label><input type="checkbox" name="consent_own" required> This is my own experience, described in my own words.</label>
   <label><input type="checkbox" name="consent_public" required> I understand this entry will be part of an open-source, publicly accessible archive.</label>
