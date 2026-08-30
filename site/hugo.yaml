@@ -24,7 +24,7 @@ menu:
     - name: Archive
       url: /entries/
       weight: 1
-    - name: Contribute
+    - name: Add observation
       url: /contribute/
       weight: 2
     - name: Search

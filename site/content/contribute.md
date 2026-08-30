@@ -1,48 +1,37 @@
 ---
-title: Contribute
+title: Add an observation
 ---
 
-Your experience matters — not because it proves anything, but because it
-exists, and right now, no one is collecting it.
+What did you do? What did you notice? What else was changing?
 
-An entry can be a few sentences. It doesn't need to be a medical history
-or a detailed report. Here are three examples of what a complete entry
-might look like:
+That is all an observation needs to be. Two minutes. A few sentences. One
+moment in your practice, recorded.
 
-> *"I began drinking my morning urine daily about two years ago. My
-> seasonal allergies improved noticeably in the first spring. I also
-> changed my diet during the same period."*
+> *"Fresh urine orally, once daily, about six weeks. Skin irritation
+> gradually reduced. Also stopped alcohol and changed diet during the
+> same period." — positive*
 
-> *"I tried this practice for about six weeks and did not notice any
-> meaningful change. I was also under significant work stress at the
-> time."*
+> *"Tried drinking it three mornings. Nauseated each time. Stopped."
+> — stopped / adverse*
 
-> *"I practised for three months and stopped because the taste became
-> difficult for me. During that time I noticed my skin was clearer, but
-> I'm not sure whether that was related."*
+> *"Daily practice for 18 years. Cannot isolate any single effect.
+> Continue because it feels supportive." — neutral*
 
-All three of those are valuable. What follows are questions to help you
-share your own experience. Answer as many or as few as you like — there
-is no minimum. The only section we always ask for is "the full picture,"
-because knowing what else was happening in your life is what gives your
-entry its integrity. Even that can be a single sentence.
+All three of those are valuable. Positive, negative, neutral, mixed,
+discontinued — every observation belongs in the record.
 
-Please remember that if you choose to contribute anonymously, details
-you share may still make you recognizable to people who know you.
-Consider this when deciding what to include.
+You can come back and add more observations over time. This is a field
+notebook, not a one-time survey. Your first observation might be one
+sentence. Your tenth might be a paragraph. Both matter.
 
-Positive experiences, negative experiences, no noticeable effect, short
-experiments, long-term practices, and experiences that ended in stopping
-are all equally valuable here.
-
-This archive uses observational language: "I noticed," "I observed,"
-"during this period." This is not to diminish what you experienced. It
-is to let your experience stand on its own terms.
-
-If you have more to share than a form can hold, or if you'd rather talk
-than type,
+If your experience has depth that a short form can't hold, or you'd
+rather talk than type,
 [book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive)
-instead.
+instead. Interviews are a separate, richer layer of the archive.
+
+If you choose to contribute anonymously, details you share may still
+make you recognizable to people who know you. Consider this when
+deciding what to include.
 
 Contributors must be 18 or older.
 
@@ -50,7 +39,7 @@ Contributors must be 18 or older.
 
 <form action="https://formspree.io/f/xnpqnbzk" method="POST">
 
-## About you
+## You
 
 <label for="identity">How would you like to be identified?</label>
 <select name="identity" id="identity">
@@ -62,7 +51,7 @@ Contributors must be 18 or older.
 <label for="name">Name or pseudonym (if applicable)</label>
 <input type="text" name="name" id="name">
 
-<label for="age_range">Age range</label>
+<label for="age_range">Age range (optional)</label>
 <select name="age_range" id="age_range">
   <option value="">Prefer not to say</option>
   <option value="18-19">18–19</option>
@@ -75,108 +64,69 @@ Contributors must be 18 or older.
   <option value="80+">80+</option>
 </select>
 
-<label for="context">General context — anything about your life situation that feels relevant</label>
-<textarea name="context" id="context" placeholder="Where you live, what you do, your general relationship with your health — whatever you want to share"></textarea>
-
----
-
-## What brought you here
-
-<label for="what_brought">What were you noticing in your body or your life that led you to explore this practice? You do not need to name a condition or use any clinical terms.</label>
-<textarea name="what_brought" id="what_brought" rows="3"></textarea>
-
----
-
-## How you came to the practice
-
-<label for="discovery">How did you first hear about it? What made you decide to try it?</label>
-<textarea name="discovery" id="discovery" rows="4"></textarea>
-
 ---
 
 ## Your practice
 
-<label for="practice">Describe what you do — which pathways (internal, external, or both), how often, how long you have been engaged, whether your practice has changed over time. Be as specific as you are comfortable being.</label>
-<textarea name="practice" id="practice" rows="3"></textarea>
-
-<label>Internal engagement (check any that apply):</label>
+<label>What pathways do you use? (check any that apply)</label>
 <div class="checkbox-group">
-  <label><input type="checkbox" name="internal[]" value="drinking-fresh"> Drinking fresh urine</label>
-  <label><input type="checkbox" name="internal[]" value="drinking-aged"> Drinking aged urine</label>
-  <label><input type="checkbox" name="internal[]" value="swishing-gargling"> Swishing or gargling</label>
-  <label><input type="checkbox" name="internal[]" value="nasal"> Nasal drops</label>
-  <label><input type="checkbox" name="internal[]" value="eye"> Eye drops</label>
-  <label><input type="checkbox" name="internal[]" value="ear"> Ear drops</label>
-  <label><input type="checkbox" name="internal[]" value="navel"> Navel application</label>
-  <label><input type="checkbox" name="internal[]" value="enema"> Enemas or implants</label>
-  <label><input type="checkbox" name="internal[]" value="nebulizer"> Nebulizer</label>
+  <label><input type="checkbox" name="pathway[]" value="oral-fresh"> Oral — fresh</label>
+  <label><input type="checkbox" name="pathway[]" value="oral-aged"> Oral — aged</label>
+  <label><input type="checkbox" name="pathway[]" value="topical-fresh"> Topical — fresh</label>
+  <label><input type="checkbox" name="pathway[]" value="topical-aged"> Topical — aged</label>
+  <label><input type="checkbox" name="pathway[]" value="nasal"> Nasal</label>
+  <label><input type="checkbox" name="pathway[]" value="eye"> Eye</label>
+  <label><input type="checkbox" name="pathway[]" value="ear"> Ear</label>
+  <label><input type="checkbox" name="pathway[]" value="gargle-swish"> Gargle / swish</label>
+  <label><input type="checkbox" name="pathway[]" value="compress"> Compress</label>
+  <label><input type="checkbox" name="pathway[]" value="bath-soak"> Bath / soak</label>
+  <label><input type="checkbox" name="pathway[]" value="enema"> Enema / implant</label>
+  <label><input type="checkbox" name="pathway[]" value="nebulizer"> Nebulizer</label>
+  <label><input type="checkbox" name="pathway[]" value="hair-scalp"> Hair / scalp</label>
+  <label><input type="checkbox" name="pathway[]" value="other"> Other</label>
 </div>
 
-<label>External engagement:</label>
-<div class="checkbox-group">
-  <label><input type="checkbox" name="external[]" value="skin-fresh"> Direct skin application (fresh)</label>
-  <label><input type="checkbox" name="external[]" value="skin-aged"> Direct skin application (aged)</label>
-  <label><input type="checkbox" name="external[]" value="compresses"> Compresses</label>
-  <label><input type="checkbox" name="external[]" value="wound-care"> Wound or skin care</label>
-  <label><input type="checkbox" name="external[]" value="hair"> Hair and scalp</label>
-  <label><input type="checkbox" name="external[]" value="baths"> Foot soaks or full-body baths</label>
-</div>
-
----
-
-## The full picture
-
-<label for="full_picture">What else was happening in your life during the period you are describing? Other treatments, diet changes, lifestyle shifts, stress levels, medications, supplements, environment. This is the one section we always ask for — it gives your entry its integrity. One sentence is enough. "Nothing else changed that I can identify" is a valid answer.</label>
-<textarea name="full_picture" id="full_picture" rows="3" required></textarea>
+<label for="duration">How long and how often?</label>
+<input type="text" name="duration" id="duration" placeholder="e.g. daily for 3 months, twice weekly for a year, tried it once">
 
 ---
 
 ## What you observed
 
-<label for="observed">What changes, if any, did you notice? What stayed the same? What surprised you?</label>
-<textarea name="observed" id="observed" rows="3"></textarea>
+<label for="observation">What did you notice? What changed, what didn't, what surprised you?</label>
+<textarea name="observation" id="observation" rows="3"></textarea>
 
-<label for="pauses">If you have ever paused or stopped your practice — what did you notice?</label>
-<textarea name="pauses" id="pauses" rows="4"></textarea>
-
----
-
-## For women
-
-<label for="womens">If relevant: observations related to menstrual cycle, hormones, perimenopause, menopause, pregnancy, or postpartum. Skip if not applicable.</label>
-<textarea name="womens" id="womens" rows="4"></textarea>
-
----
-
-## Timeline
-
-<label for="timeline">When did you begin? How long have you been engaged? Any distinct phases, turning points, breaks and returns? What influenced whether you continued, changed, paused, stopped, or returned?</label>
-<textarea name="timeline" id="timeline" rows="3"></textarea>
+<label for="overall">Overall, how would you describe this experience?</label>
+<select name="overall" id="overall">
+  <option value="">—</option>
+  <option value="positive">Positive</option>
+  <option value="neutral">Neutral / no noticeable change</option>
+  <option value="mixed">Mixed</option>
+  <option value="negative">Negative / unwanted effects</option>
+  <option value="stopped">Stopped — adverse or uncomfortable</option>
+  <option value="stopped-other">Stopped — other reasons</option>
+</select>
 
 ---
 
-## Challenges
+## What else was happening
 
-<label for="challenges">Has anything about this practice been difficult, uncomfortable, or unexpected in a way that was not welcome?</label>
-<textarea name="challenges" id="challenges" rows="4"></textarea>
+<label for="context">What else was going on in your life during this period? Other treatments, diet changes, lifestyle shifts, stress, medications, environment. One sentence is enough. "Nothing else changed that I can identify" is a valid answer.</label>
+<textarea name="context" id="context" rows="2" required></textarea>
 
 ---
 
-## Testing
+## More (optional)
 
-<label for="testing">Have you had any lab work (blood, urine, hair) done during the period of your practice?</label>
+<label for="more">Is there anything else you want to add? A longer story, a detail, something the form didn't ask?</label>
+<textarea name="more" id="more" rows="3"></textarea>
+
+<label for="testing">Have you had any lab work done during this period?</label>
 <select name="testing" id="testing">
   <option value="no">No</option>
   <option value="yes-willing">Yes — willing to share (anonymized)</option>
   <option value="yes-private">Yes — prefer not to share</option>
 </select>
-
----
-
-## Anything else
-
-<label for="anything_else">Is there something this form did not ask that you want to share?</label>
-<textarea name="anything_else" id="anything_else" rows="3"></textarea>
 
 ---
 
@@ -190,24 +140,23 @@ private, who has access, and how to request changes or removal.
 <div class="checkbox-group">
   <label><input type="checkbox" name="consent_privacy" required> I have read and understand the <a href="{{ "privacy/" | relURL }}">Privacy & Data</a> page.</label>
   <label><input type="checkbox" name="consent_age" required> I am 18 years of age or older.</label>
-  <label><input type="checkbox" name="consent_own" required> This is my own experience, described in my own words.</label>
+  <label><input type="checkbox" name="consent_own" required> This is my own observation, described in my own words.</label>
   <label><input type="checkbox" name="consent_health" required> I explicitly consent to The Water of Life processing the health-related information I choose to provide for the purpose of reviewing, preparing, publishing, and maintaining my archive entry.</label>
-  <label><input type="checkbox" name="consent_public" required> I understand this entry will be published in a public archive and licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, meaning others may share, quote, and build on it with attribution — including for commercial purposes. This licence cannot be revoked once granted.</label>
-  <label><input type="checkbox" name="consent_removal" required> I understand that if I request removal, my entry will be removed from The Water of Life, but copies already downloaded, quoted, or reused under the CC BY 4.0 licence may remain beyond the archive's control.</label>
-  <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification for this entry.</label>
+  <label><input type="checkbox" name="consent_public" required> I understand this observation will be published in a public archive and licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, meaning others may share, quote, and build on it with attribution — including for commercial purposes. This licence cannot be revoked once granted.</label>
+  <label><input type="checkbox" name="consent_removal" required> I understand that if I request removal, my observation will be removed from The Water of Life, but copies already downloaded, quoted, or reused under the CC BY 4.0 licence may remain beyond the archive's control.</label>
+  <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification for this observation.</label>
   <label><input type="checkbox" name="consent_no_claims" required> I understand that The Water of Life does not present my contribution as proof of medical efficacy or use it to make medical claims.</label>
-  <label><input type="checkbox" name="consent_followup"> I am open to being contacted for a follow-up conversation.</label>
+  <label><input type="checkbox" name="consent_followup"> I am open to being contacted for a follow-up.</label>
 </div>
 
 <label for="email">Contact email (optional — kept private, never published)</label>
 <input type="email" name="email" id="email" placeholder="Only if you want to be reached">
 
 <br>
-<button type="submit">Submit your entry</button>
+<button type="submit">Add observation</button>
 
 </form>
 
 ---
 
-*Thank you. What you just did matters. This dataset exists because people
-like you decided to build what no one else would.*
+*Thank you. Every observation recorded is one that did not exist before.*
