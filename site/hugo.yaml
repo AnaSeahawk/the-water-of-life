@@ -36,6 +36,3 @@ menu:
     - name: Support
       url: /support/
       weight: 5
-    - name: Privacy
-      url: /privacy/
-      weight: 6

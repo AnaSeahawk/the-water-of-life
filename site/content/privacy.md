@@ -34,8 +34,8 @@ Some of this information constitutes health-related data under data
 protection laws (including GDPR, where it applies), including
 observations about your body and any mention of medications or
 treatments. You choose what to include. The only required fields are
-the consent checkbox and the concurrent factors section, which can be
-a single sentence.
+the observation itself, the concurrent factors section (which can be a
+single sentence), and the consent checkbox.
 
 The legal basis for processing your data is your explicit consent,
 given through the consent checkbox on the observation form. For
@@ -74,7 +74,7 @@ delivered to my email. Formspree's own privacy policy applies to that
 transmission: [formspree.io/legal/privacy-policy](https://formspree.io/legal/privacy-policy).
 
 Once received, I review and format your submission by hand. The
-formatted entry is added to the archive's Git repository. I then delete
+formatted observation is added to the archive's Git repository. I then delete
 the original submission from Formspree and from my email.
 
 Audio interview recordings are stored privately on my own devices, used
@@ -85,25 +85,25 @@ reviewed and approved by the contributor.
 
 ## Who has access
 
-- **Me** — I am the only person who sees raw form submissions, email
-  addresses, and audio recordings
+- **Me** — I am the only person who sees raw form submissions and
+  audio recordings
 - **Formspree** — processes the form submission during transmission
-- **The public** — sees only the published archive entry, which contains
-  no email addresses or private information
+- **The public** — sees only the published observation, which contains
+  no private information
 
 ---
 
 ## How long data is retained
 
-- **Published entries** remain in the archive indefinitely. Because the
-  archive uses Git version control, the history of changes is preserved
-  even after an entry is modified or removed — the Git record will show
-  that an entry existed and was changed or removed, though the content
-  itself is removed from the current version
+- **Published observations** remain in the archive indefinitely. Because
+  the archive uses Git version control, the history of changes is
+  preserved even after an observation is modified or removed — the Git
+  record will show that it existed and was changed or removed, though
+  the content itself is removed from the current version
 - **Audio recordings** (from interviews) are deleted after the transcript is reviewed and
   approved by you
 - **Raw form submissions** in Formspree and email are deleted after your
-  entry is formatted and published
+  observation is formatted and published
 
 ---
 
@@ -112,13 +112,13 @@ reviewed and approved by the contributor.
 You can, at any time:
 
 - **Request a copy** of any data I hold about you
-- **Request correction** of your published entry
+- **Request correction** of your published observation
 - **Request removal** of your observation from the archive — removals
   are tracked in the Git history (the record shows an entry was removed,
   and why) but your content is removed from the current, publicly visible
   version of the archive
-- **Withdraw consent** — if you withdraw consent, your entry will be
-  removed as described above
+- **Withdraw consent** — if you withdraw consent, your observation will
+  be removed as described above
 - **Ask questions** about how your data is handled
 - **Lodge a complaint** with your local data protection authority if you
   believe your data has been handled improperly
@@ -149,9 +149,10 @@ knowingly collect data from anyone under 18.
 ## Changes to this page
 
 If this privacy page is updated, the change will be visible in the
-archive's Git history. Contributors whose entries are already published
-will not be affected by changes made after their submission — your entry
-was accepted under the terms that existed when you submitted it.
+archive's Git history. Contributors whose observations are already published
+will not be affected by changes made after their submission — your
+observation was accepted under the terms that existed when you submitted
+it.
 
 ---
 

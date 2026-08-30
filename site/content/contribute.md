@@ -64,7 +64,7 @@ to include.
 ## What you observed
 
 <label for="observation">What did you notice? What changed, what didn't, what surprised you?</label>
-<textarea name="observation" id="observation" rows="3"></textarea>
+<textarea name="observation" id="observation" rows="3" required></textarea>
 
 <label for="overall">Overall, how would you describe this experience?</label>
 <select name="overall" id="overall">
