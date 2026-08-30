@@ -5,10 +5,6 @@ title: "Founding Document"
 
 **Date:** 2026-08-29
 **Founder and steward:** Ana Seahawk
-**AI-assisted drafting:** Claude Opus 4.6
-
-All methodological and editorial decisions remain the responsibility of
-the archive steward.
 
 ---
 
