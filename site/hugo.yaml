@@ -7,7 +7,7 @@ params:
   paypal: https://www.paypal.com/paypalme/vivarium
   wise: https://wise.com/pay/me/joannel78
   github: https://github.com/AnaSeahawk/the-water-of-life
-  booking: https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive
+  booking: https://cal.com/anaseahawk/the-water-of-life-a-conversation
 
 markup:
   goldmark:

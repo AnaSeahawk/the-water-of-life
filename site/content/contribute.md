@@ -25,7 +25,7 @@ a one-time survey.
 
 If your experience has depth that a short form can't hold, or you'd
 rather talk than type,
-[book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive)
+[book a conversation](https://cal.com/anaseahawk/the-water-of-life-a-conversation)
 instead.
 
 Contributors must be 18 or older. Details you share may make you
