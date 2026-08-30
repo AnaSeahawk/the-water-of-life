@@ -38,7 +38,7 @@ to include.
 
 ## Your practice
 
-<label>What pathways do you use? (check any that apply)</label>
+<label>Which pathway(s) relate to this observation? (check any that apply)</label>
 <div class="checkbox-group">
   <label><input type="checkbox" name="pathway[]" value="oral-fresh"> Oral — fresh</label>
   <label><input type="checkbox" name="pathway[]" value="oral-aged"> Oral — aged</label>
@@ -56,7 +56,7 @@ to include.
   <label><input type="checkbox" name="pathway[]" value="other"> Other</label>
 </div>
 
-<label for="duration">How long and how often?</label>
+<label for="duration">How long had you been doing this, and how often?</label>
 <input type="text" name="duration" id="duration" placeholder="e.g. daily for 3 months, twice weekly for a year, tried it once">
 
 ---

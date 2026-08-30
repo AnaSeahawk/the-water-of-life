@@ -170,7 +170,8 @@ want. Observations may stand alone. Where a contributor uses a display
 name, related observations may naturally become identifiable as part of
 an ongoing record.
 
-Raw recordings from audio interviews are retained privately but never published.
+Audio recordings from interviews are stored privately until the
+transcript is reviewed and approved by the contributor, then deleted.
 Only transcripts enter the public archive.
 
 ---

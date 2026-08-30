@@ -1,37 +1,49 @@
 # The Water of Life
 
-An open-source, participatory observational archive collecting first-person
-accounts of engagement with auto-urine practice.
+A collective field record of lived observations from people engaged with
+auto-urine practice.
 
-No claims. No diagnoses. No prescriptions. Just the data.
+No claims. No diagnoses. No prescriptions. Just what people noticed.
+
+## What this is
+
+People are already living this practice. Most of their observations
+disappear. This archive is a place to leave them.
+
+An observation can be a few sentences. It takes two to three minutes.
+Someone can come back and add more over time.
 
 ## Structure
 
 ```
 the-water-of-life/
-  entries/           # one file per contributor
-  methodology/       # founding document, evolution records
-  templates/         # contributor template, interview guide
-  README.md
+  site/               # Hugo static site (GitHub Pages)
+  site/content/
+    entries/           # published observations
+    methodology/       # founding document
+    contribute.md      # observation form
+    privacy.md         # data handling
+    support.md         # how to help
 ```
 
 ## Contributing
 
-Read `templates/contributor-template.md` and fill it out, or request an
-interview. See `methodology/founding-document.md` for the full reasoning
-behind the archive's design.
+Visit the website and [add an observation](https://anaseahawk.github.io/the-water-of-life/contribute/).
+For experiences that need depth, [book a conversation](https://cal.com/anaseahawk/share-your-experience-the-water-of-life-archive).
+
+Read the [founding document](https://anaseahawk.github.io/the-water-of-life/methodology/founding-document/)
+for the reasoning behind the archive's design.
 
 ## Support the archive
 
-This archive is unfunded and open source. Running costs are near zero, but
+This archive is independent. Running costs are near zero, but
 stewardship, transcription, and growth take time.
 
 - [PayPal](https://www.paypal.com/paypalme/vivarium)
 - [Wise](https://wise.com/pay/me/joannel78)
 
-Every contribution keeps the archive alive and accessible.
-
 ## License
 
-The archive structure and methodology are open source. Individual entries are
-contributed under the terms stated in each entry's consent section.
+Licensing for published observations has not yet been decided. When a
+model is adopted, it will be documented on the website's Privacy & Data
+page.
