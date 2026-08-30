@@ -88,8 +88,8 @@ reviewed and approved by the contributor.
 - **Me** — I am the only person who sees raw form submissions and
   audio recordings
 - **Formspree** — processes the form submission during transmission
-- **The public** — sees only the published observation, which contains
-  no private information
+- **The public** — sees only the information included in the published
+  observation
 
 ---
 

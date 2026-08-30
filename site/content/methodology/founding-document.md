@@ -105,7 +105,7 @@ submit.
 
 Each observation records:
 
-1. **The contributor** — identified by name, pseudonym, or anonymous ID.
+1. **The contributor** — by display name, or anonymous by default.
 2. **The practice** — which pathways, how often, how long.
 3. **What they observed** — changes, non-changes, surprises.
 4. **Overall experience** — positive, neutral, mixed, negative, or
@@ -114,10 +114,9 @@ Each observation records:
    enough. Together with the observation itself, these are the only
    required fields beyond consent.
 
-Contributors can return and add more observations over time. One person
-may have many observations — an initial record, a follow-up months later,
-a note about pausing, a note about returning. The archive captures
-trajectories, not snapshots.
+One person may contribute many observations. Observations may stand
+alone or form an ongoing record when a contributor chooses to identify
+them consistently.
 
 For experiences that need depth, contributors can book a conversation.
 Interviews are a separate, richer layer — oral histories preserved
@@ -143,8 +142,8 @@ This archive is observational and self-reported. It will inevitably reflect:
 - **No comparison group** — there is no untreated control. Changes reported
   alongside the practice may have other causes.
 - **Concurrent factors** — contributors are living full lives. Diet, stress,
-  medication, environment, and other treatments are all in play. The "full
-  picture" section documents these, but cannot isolate them.
+  medication, environment, and other treatments are all in play. The
+  concurrent factors field documents these, but cannot isolate them.
 - **Inconsistent methods** — practitioners vary widely in what they do, how
   often, and for how long.
 
@@ -206,7 +205,7 @@ on 2026-08-29 established:
 - The problem with diagnostic labels as organizing categories
 - The current state of the evidence gap (no controlled clinical trial identified)
 - The contributor template design
-- The technical foundation (git repo, static site, future key pairs for identity)
+- The technical foundation (git repo, static site, web form)
 - The minimum viable product: template + repo + entries + a searchable page
 
 The founding conversation is retained privately by the archive steward

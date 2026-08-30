@@ -2,10 +2,8 @@
 title: Archive
 ---
 
-The archive holds one entry per contributor — a first-person account of their
-experience, in their own words, with the full context of what else was happening
-in their life at the time.
-
-Each entry follows the same observational structure. No diagnostic labels.
-No therapeutic claims. Just what the person did, what else was going on,
-and what they observed.
+The archive holds individual observations from people engaged with
+auto-urine practice. Some are brief, some contain more detail. A person
+may contribute once or return many times. Each observation records what
+they did, what they noticed, and enough context to understand what else
+was happening at the time.

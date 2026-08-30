@@ -2,7 +2,7 @@ baseURL: https://anaseahawk.github.io/the-water-of-life/
 defaultContentLanguage: en
 title: The Water of Life
 params:
-  description: An open-source observational archive collecting first-person accounts of engagement with auto-urine practice.
+  description: A collective field record of lived observations from people engaged with auto-urine practice.
   author: Ana Seahawk
   paypal: https://www.paypal.com/paypalme/vivarium
   wise: https://wise.com/pay/me/joannel78
