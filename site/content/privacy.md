@@ -31,10 +31,17 @@ When you submit the contribution form, the following is collected:
 - Your consent selections
 
 Some of this information constitutes health-related data under data
-protection laws, including observations about your body, any mention of
-medications or treatments, menstrual or hormonal observations, and
-laboratory results. You choose what to include. No field beyond the
-consent checkboxes is mandatory.
+protection laws (including GDPR, where it applies), including
+observations about your body, any mention of medications or treatments,
+menstrual or hormonal observations, and laboratory results. You choose
+what to include. The only required fields are the consent checkboxes and
+the "full picture" section (concurrent factors), which can be a single
+sentence.
+
+The legal basis for processing your data is your explicit consent,
+given through the consent checkboxes on the contribution form. For
+health-related data specifically, this relies on GDPR Article 9(2)(a)
+— explicit consent for specified purposes.
 
 For audio interviews, the conversation is recorded. The recording is
 used solely for transcription and is never published.
@@ -112,10 +119,15 @@ You can, at any time:
 - **Request removal** of your entry from the archive — removals are
   tracked in the Git history (the record shows an entry was removed, and
   why) but your content is removed from the current, publicly visible
-  version of the archive
+  version of the archive. Because entries are licensed under CC BY 4.0,
+  copies already downloaded, quoted, or reused by others under that
+  licence may remain beyond the archive's control. Removal removes the
+  entry from The Water of Life going forward.
 - **Withdraw consent** — if you withdraw consent, your entry will be
   removed as described above
 - **Ask questions** about how your data is handled
+- **Lodge a complaint** with your local data protection authority if you
+  believe your data has been handled improperly
 
 For any of these, contact me at anaseahawk@gmail.com. I will respond
 within 30 days.
@@ -175,6 +187,17 @@ If this privacy page is updated, the change will be visible in the
 archive's Git history. Contributors whose entries are already published
 will not be affected by changes made after their submission — your entry
 was accepted under the terms that existed when you submitted it.
+
+---
+
+## International data transfers
+
+Form submissions pass through Formspree, whose servers are located in
+the United States. If you are submitting from outside the US, your data
+crosses an international border during transmission. The published
+archive is hosted on GitHub Pages, also based in the US. Both services
+maintain their own data protection commitments, linked elsewhere on this
+page.
 
 ---
 

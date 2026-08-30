@@ -6,21 +6,30 @@ Your experience matters — not because it proves anything, but because it
 exists, and right now, no one is collecting it.
 
 An entry can be a few sentences. It doesn't need to be a medical history
-or a detailed report. In Armstrong's *The Water of Life*, many of the
-case histories are a single paragraph — a person, what they did, what
-they noticed. That is enough.
+or a detailed report. Here are three examples of what a complete entry
+might look like:
 
-> "A man of 40 had been troubled with a cough for three years. His
-> doctor told him he had a patch on one lung, and that he must enter
-> hospital. Instead, he undertook the urine therapy, and after
-> five weeks the cough had gone and has never returned."
-> — John W. Armstrong, *The Water of Life* (1944)
+> *"I began drinking my morning urine daily about two years ago. My
+> seasonal allergies improved noticeably in the first spring. I also
+> changed my diet during the same period."*
 
-That is a complete observation. What follows are questions to help you
-share yours. Answer as many or as few as you like — there is no minimum.
-The only section we always ask for is "the full picture," because knowing
-what else was happening in your life is what gives your entry its
-integrity. Even that can be a single sentence.
+> *"I tried this practice for about six weeks and did not notice any
+> meaningful change. I was also under significant work stress at the
+> time."*
+
+> *"I practised for three months and stopped because the taste became
+> difficult for me. During that time I noticed my skin was clearer, but
+> I'm not sure whether that was related."*
+
+All three of those are valuable. What follows are questions to help you
+share your own experience. Answer as many or as few as you like — there
+is no minimum. The only section we always ask for is "the full picture,"
+because knowing what else was happening in your life is what gives your
+entry its integrity. Even that can be a single sentence.
+
+Please remember that if you choose to contribute anonymously, details
+you share may still make you recognizable to people who know you.
+Consider this when deciding what to include.
 
 Positive experiences, negative experiences, no noticeable effect, short
 experiments, long-term practices, and experiences that ended in stopping
@@ -45,7 +54,7 @@ Contributors must be 18 or older.
 
 <label for="identity">How would you like to be identified?</label>
 <select name="identity" id="identity">
-  <option value="anonymous">Anonymous</option>
+  <option value="anonymous">Anonymous (published without name)</option>
   <option value="pseudonym">Pseudonym (enter below)</option>
   <option value="named">My real name</option>
 </select>
@@ -117,8 +126,8 @@ Contributors must be 18 or older.
 
 ## The full picture
 
-<label for="full_picture">What else was happening in your life during the period you are describing? Other treatments, diet changes, lifestyle shifts, stress levels, medications, supplements, environment. This section gives your entry its integrity.</label>
-<textarea name="full_picture" id="full_picture" rows="3"></textarea>
+<label for="full_picture">What else was happening in your life during the period you are describing? Other treatments, diet changes, lifestyle shifts, stress levels, medications, supplements, environment. This is the one section we always ask for — it gives your entry its integrity. One sentence is enough. "Nothing else changed that I can identify" is a valid answer.</label>
+<textarea name="full_picture" id="full_picture" rows="3" required></textarea>
 
 ---
 
@@ -173,17 +182,20 @@ Contributors must be 18 or older.
 
 ## Consent
 
-Before submitting, please read the [Privacy & Data](/privacy/) page. It
-explains exactly what happens to your data — what becomes public, what
-stays private, who has access, and how to request changes or removal.
+Before submitting, please read the
+<a href="{{ "privacy/" | relURL }}">Privacy & Data</a> page. It explains
+exactly what happens to your data — what becomes public, what stays
+private, who has access, and how to request changes or removal.
 
 <div class="checkbox-group">
-  <label><input type="checkbox" name="consent_privacy" required> I have read and understand the <a href="/privacy/">Privacy & Data</a> page.</label>
+  <label><input type="checkbox" name="consent_privacy" required> I have read and understand the <a href="{{ "privacy/" | relURL }}">Privacy & Data</a> page.</label>
   <label><input type="checkbox" name="consent_age" required> I am 18 years of age or older.</label>
   <label><input type="checkbox" name="consent_own" required> This is my own experience, described in my own words.</label>
-  <label><input type="checkbox" name="consent_public" required> I understand this entry will be published in a public archive and licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, meaning others may share and build on it with attribution.</label>
+  <label><input type="checkbox" name="consent_health" required> I explicitly consent to The Water of Life processing the health-related information I choose to provide for the purpose of reviewing, preparing, publishing, and maintaining my archive entry.</label>
+  <label><input type="checkbox" name="consent_public" required> I understand this entry will be published in a public archive and licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, meaning others may share, quote, and build on it with attribution — including for commercial purposes. This licence cannot be revoked once granted.</label>
+  <label><input type="checkbox" name="consent_removal" required> I understand that if I request removal, my entry will be removed from The Water of Life, but copies already downloaded, quoted, or reused under the CC BY 4.0 licence may remain beyond the archive's control.</label>
   <label><input type="checkbox" name="consent_identity" required> I have chosen my level of identification for this entry.</label>
-  <label><input type="checkbox" name="consent_no_claims" required> I understand the archive makes no medical claims and my contribution will not be used to make medical claims.</label>
+  <label><input type="checkbox" name="consent_no_claims" required> I understand that The Water of Life does not present my contribution as proof of medical efficacy or use it to make medical claims.</label>
   <label><input type="checkbox" name="consent_followup"> I am open to being contacted for a follow-up conversation.</label>
 </div>
 

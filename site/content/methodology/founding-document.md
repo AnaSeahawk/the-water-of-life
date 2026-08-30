@@ -206,7 +206,8 @@ on 2026-08-29 established:
 - The technical foundation (git repo, static site, future key pairs for identity)
 - The minimum viable product: template + repo + entries + a searchable page
 
-The full conversation is preserved as part of the archive's methodology.
+The founding conversation is retained privately by the archive steward
+as part of the project's methodological record.
 
 ---
 
