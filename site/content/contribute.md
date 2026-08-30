@@ -17,7 +17,7 @@ moment in your practice, recorded.
 > *"Daily practice for 18 years. Cannot isolate any single effect.
 > Continue because it feels supportive." — neutral*
 
-All three belong in the record. Positive, negative, neutral, mixed,
+All three belong in the collective record. Positive, negative, neutral, mixed,
 discontinued — every observation matters.
 
 You can come back and add more over time. This is a field notebook, not
