@@ -20,26 +20,25 @@ Contact: anaseahawk@gmail.com
 
 ## What is collected
 
-When you submit the contribution form, the following is collected:
+When you submit the observation form, the following is collected:
 
-- Your chosen level of identification (anonymous, pseudonym, or real name)
-- Your age range
-- Your responses to the template questions — these cover your practice,
-  what you observed, concurrent factors, timeline, challenges, and any
-  other details you chose to share
-- Your contact email, if you provided one
-- Your consent selections
+- Your practice pathways, duration, and frequency
+- What you observed
+- Your overall experience
+- What else was happening (concurrent factors)
+- Any additional details you chose to share
+- Your display name, if you provided one (otherwise anonymous)
+- Your age range, if you provided it
 
 Some of this information constitutes health-related data under data
 protection laws (including GDPR, where it applies), including
-observations about your body, any mention of medications or treatments,
-menstrual or hormonal observations, and laboratory results. You choose
-what to include. The only required fields are the consent checkboxes and
-the "full picture" section (concurrent factors), which can be a single
-sentence.
+observations about your body and any mention of medications or
+treatments. You choose what to include. The only required fields are
+the consent checkbox and the concurrent factors section, which can be
+a single sentence.
 
 The legal basis for processing your data is your explicit consent,
-given through the consent checkboxes on the contribution form. For
+given through the consent checkbox on the observation form. For
 health-related data specifically, this relies on GDPR Article 9(2)(a)
 — explicit consent for specified purposes.
 
@@ -50,17 +49,17 @@ used solely for transcription and is never published.
 
 ## What becomes public
 
-Your archive entry — the formatted version of your responses — is
+Your observation — the formatted version of your submission — is
 published in a public GitHub repository and displayed on this website.
 It includes:
 
-- Your chosen identifier (name, pseudonym, or anonymous ID)
+- Your display name (or anonymous if none provided)
 - Your age range (if provided)
-- Your responses to the template questions
+- Your practice details, observation, concurrent factors, and any
+  additional details you chose to share
 
 The following are **never published**:
 
-- Your contact email
 - Audio recordings from interviews
 - Any information you explicitly ask to keep private during an interview
 
@@ -101,9 +100,7 @@ reviewed and approved by the contributor.
   even after an entry is modified or removed — the Git record will show
   that an entry existed and was changed or removed, though the content
   itself is removed from the current version
-- **Email addresses** are deleted after any follow-up communication is
-  complete, or if no follow-up occurs, after your entry is published
-- **Audio recordings** are deleted after the transcript is reviewed and
+- **Audio recordings** (from interviews) are deleted after the transcript is reviewed and
   approved by you
 - **Raw form submissions** in Formspree and email are deleted after your
   entry is formatted and published
@@ -116,13 +113,10 @@ You can, at any time:
 
 - **Request a copy** of any data I hold about you
 - **Request correction** of your published entry
-- **Request removal** of your entry from the archive — removals are
-  tracked in the Git history (the record shows an entry was removed, and
-  why) but your content is removed from the current, publicly visible
-  version of the archive. Because entries are licensed under CC BY 4.0,
-  copies already downloaded, quoted, or reused by others under that
-  licence may remain beyond the archive's control. Removal removes the
-  entry from The Water of Life going forward.
+- **Request removal** of your observation from the archive — removals
+  are tracked in the Git history (the record shows an entry was removed,
+  and why) but your content is removed from the current, publicly visible
+  version of the archive
 - **Withdraw consent** — if you withdraw consent, your entry will be
   removed as described above
 - **Ask questions** about how your data is handled
@@ -152,35 +146,6 @@ knowingly collect data from anyone under 18.
 
 ---
 
-## Reuse and licensing
-
-Published archive entries are released under a
-[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-licence (CC BY 4.0).
-
-This means anyone — researchers, journalists, other projects, individuals
-— may read, share, quote, and build on the entries in this archive, as
-long as they credit the contributor (by their chosen identifier) and the
-archive.
-
-This is a deliberate choice. This archive exists because the data was
-never collected, and once collected, it was never shared openly. If
-someone wants to study these entries, publish an analysis, translate
-them, or mirror the archive — that is not a problem. That is the point.
-The whole reason this project exists is that gatekeeping kept this data
-out of reach. We are not going to collect it and then gatekeep it
-ourselves.
-
-Contributors control what they share and how they are identified. The
-licence applies to the published entry — the version you reviewed and
-approved. It does not apply to your private information (email, audio
-recordings), which is never published and never shared.
-
-If you are uncomfortable with your entry being reusable under these
-terms, you can request removal at any time.
-
----
-
 ## Changes to this page
 
 If this privacy page is updated, the change will be visible in the
@@ -202,3 +167,7 @@ page.
 ---
 
 *Last updated: 2026-08-30*
+
+*Licensing for published observations has not yet been decided. When a
+licensing model is adopted, it will be documented here and reflected in
+the contribution form.*
