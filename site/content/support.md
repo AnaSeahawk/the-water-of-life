@@ -2,14 +2,6 @@
 title: Support the archive
 ---
 
-<div style="text-align:center; margin:1.5rem 0 1.25rem;">
-  <a href="https://anaseahawk.com">
-    <img src="https://anaseahawk.github.io/the-water-of-life/images/ana-seahawk-emblem.jpg" alt="Ana Seahawk emblem" style="display:block; width:120px; max-width:32vw; height:auto; margin:0 auto 0.75rem;">
-  </a>
-  <strong>Ana Seahawk</strong><br>
-  <em>Steward of The Water of Life</em>
-</div>
-
 I started this archive because I got tired of waiting for someone with
 authority to do it. No one was coming. So I began.
 
