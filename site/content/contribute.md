@@ -112,7 +112,7 @@ to include.
 ---
 
 <div class="checkbox-group">
-  <label><input type="checkbox" name="consent" required> I am 18 or older. This is my own observation in my own words. I understand it will be published as part of a public archive, and I consent to The Water of Life processing and publishing the information I have chosen to provide, including any health-related information. I can request removal at any time by contacting the <a href="{{ "privacy/" | relURL }}">archive steward</a>.</label>
+  <label><input type="checkbox" name="consent" required> I am 18 or older. This is my own observation in my own words. I understand it will be published as part of a public archive, and I consent to The Water of Life processing and publishing the information I have chosen to provide, including any health-related information. I can request removal at any time by contacting the <a href="../privacy/">archive steward</a>.</label>
 </div>
 
 <button type="submit">Add observation</button>
