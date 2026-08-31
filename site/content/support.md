@@ -35,3 +35,26 @@ Every contribution keeps the work moving. Thank you.
 - Outreach so more people can contribute
 
 This page will be updated as the archive grows and its needs change.
+
+---
+
+## About the steward
+
+<div style="text-align:center; margin:1.5rem 0 1.25rem;">
+  <a href="https://anaseahawk.com">
+    <img src="../images/ana-seahawk-emblem.jpg" alt="Ana Seahawk emblem" width="120" height="120" style="display:block; width:120px; max-width:32vw; height:auto; margin:0 auto 0.75rem;">
+  </a>
+  <strong>Ana Seahawk</strong><br>
+  <em>Steward of The Water of Life</em>
+</div>
+
+It began with a very simple feeling: people are noticing things, talking about
+them, and then those observations disappear.
+
+This archive is a place to keep some of them.
+
+Ana is a practitioner herself and holds the archive by hand — reading each
+observation, listening to the conversations, and caring for the record as it
+grows.
+
+[AnaSeahawk.com](https://anaseahawk.com)
