@@ -3,8 +3,8 @@ title: Privacy & Data
 ---
 
 This page explains exactly what happens to your data when you contribute
-to The Water of Life. If anything here is unclear, contact me directly
-at anaseahawk@gmail.com.
+to The Water of Life. If anything here is unclear, contact me through
+[anaseahawk.com](https://anaseahawk.com).
 
 ---
 
@@ -14,7 +14,7 @@ My name is Ana Seahawk. I am the founder, steward, and sole data
 controller for this archive. There is no organization behind it. I am
 personally responsible for how your data is handled.
 
-Contact: anaseahawk@gmail.com
+Contact: [anaseahawk.com](https://anaseahawk.com)
 
 ---
 
@@ -123,8 +123,8 @@ You can, at any time:
 - **Lodge a complaint** with your local data protection authority if you
   believe your data has been handled improperly
 
-For any of these, contact me at anaseahawk@gmail.com. I will respond
-within 30 days.
+For any of these, contact me through
+[anaseahawk.com](https://anaseahawk.com). I will respond within 30 days.
 
 ---
 
@@ -167,7 +167,7 @@ page.
 
 ---
 
-*Last updated: 2026-08-30*
+*Last updated: 2026-08-31*
 
 *Licensing for published observations has not yet been decided. When a
 licensing model is adopted, it will be documented here and reflected in
