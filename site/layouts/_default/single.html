@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <p class="entry-meta">
+    {{- if and .Params.contributor (ne .Params.contributor "anonymous") -}}
+      {{ .Params.contributor }} —
+    {{ end -}}
+    {{ with .Params.date }}{{ dateFormat "2 January 2006" . }}{{ end }}
+    {{- with .Params.overall }} · {{ . }}{{ end -}}
+  </p>
   {{ .Content }}
 {{ end }}

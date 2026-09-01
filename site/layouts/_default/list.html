@@ -7,7 +7,10 @@
     {{ range .Pages }}
     <li>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ with .Params.date }}<span class="date"> — {{ . }}</span>{{ end }}
+      {{- if and .Params.contributor (ne .Params.contributor "anonymous") }}
+      <span class="contributor"> — {{ .Params.contributor }}</span>
+      {{- end }}
+      {{ with .Params.date }}<span class="date"> — {{ dateFormat "2 January 2006" . }}</span>{{ end }}
     </li>
     {{ end }}
   </ul>
