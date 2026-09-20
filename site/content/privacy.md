@@ -2,17 +2,20 @@
 title: Privacy & Data
 ---
 
-This page explains exactly what happens to your data when you contribute
-to The Water of Life. If anything here is unclear, contact me through
-[anaseahawk.com](https://anaseahawk.com).
+The Water of Life is a community archive. Every observation in it was
+offered freely by someone who wanted their experience to exist in the
+record. This page explains how that record is kept — by a real person,
+not a platform.
 
 ---
 
-## Who is responsible
+## Who keeps this archive
 
 My name is Ana Seahawk. I am the founder, steward, and sole data
-controller for this archive. There is no organization behind it. I am
-personally responsible for how your data is handled.
+controller for this archive. There is no organization, no team, no
+automated pipeline. I read every submission. I care for the record
+personally. If you have a question, a concern, or a request about your
+data, you are talking to me.
 
 Contact: [anaseahawk.com](https://anaseahawk.com)
 
@@ -28,6 +31,7 @@ When you submit the observation form, the following is collected:
 - What else was happening (concurrent factors)
 - Any additional details you chose to share
 - Your display name, if you provided one (otherwise anonymous)
+- Your email address, if you provided one
 - Your age range, if you provided it
 
 Some of this information constitutes health-related data under data
@@ -42,6 +46,17 @@ given through the consent checkbox on the observation form. For
 health-related data specifically, this relies on GDPR Article 9(2)(a)
 — explicit consent for specified purposes.
 
+**Email addresses** are entirely optional and are **never published**.
+
+If you provide your email, your observations are linked together
+privately. This means you can come back over weeks or months, add new
+observations, and build a record of what you notice over time. On the
+public archive, your entries appear anonymously (or under your chosen
+display name) — but behind the scenes, they are connected, so if you
+ever want to see your full record, request a correction, or ask for
+removal, I can find everything that is yours. Your email is stored only
+in the private archival record and is visible only to me.
+
 For audio interviews, the conversation is recorded. The recording is
 used solely for transcription and is never published.
 
@@ -51,15 +66,23 @@ used solely for transcription and is never published.
 
 Your observation — the formatted version of your submission — is
 published in a public GitHub repository and displayed on this website.
-It includes:
+It becomes part of a collective record that anyone can read and learn
+from. It includes:
 
 - Your display name (or anonymous if none provided)
 - Your age range (if provided)
 - Your practice details, observation, concurrent factors, and any
   additional details you chose to share
 
+If you contribute more than once using a display name, your
+observations are naturally visible as an ongoing record — a person's
+journey with this practice over time. That kind of longitudinal view is
+one of the most valuable things this archive can hold, and it belongs
+to the community.
+
 The following are **never published**:
 
+- Your email address
 - Audio recordings from interviews
 - Any information you explicitly ask to keep private during an interview
 
@@ -73,9 +96,15 @@ submit the form, your responses pass through Formspree's servers and are
 delivered to my email. Formspree's own privacy policy applies to that
 transmission: [formspree.io/legal/privacy-policy](https://formspree.io/legal/privacy-policy).
 
-Once received, I review and format your submission by hand. The
-formatted observation is added to the archive's Git repository. I then delete
-the original submission from Formspree and from my email.
+Once received, I read your submission and lightly edit it for clarity
+and consistency with the archive's format. Your words and meaning are
+preserved — the editing is for structure and readability, not content.
+I keep your original submission as a permanent private archival record.
+The edited observation is what appears on the site.
+
+After the observation is published, I delete the raw submission from
+Formspree and from my email. Your original is preserved privately as
+part of the archive's permanent record.
 
 Audio interview recordings are stored privately on my own devices, used
 only for transcription, and deleted once the transcript has been
@@ -85,11 +114,11 @@ reviewed and approved by the contributor.
 
 ## Who has access
 
-- **Me** — I am the only person who sees raw form submissions and
-  audio recordings
+- **Me** — I am the only person who sees raw submissions, email
+  addresses, and audio recordings
 - **Formspree** — processes the form submission during transmission
-- **The public** — sees only the information included in the published
-  observation
+  (it does not see the published observation or the private archive)
+- **The community** — sees only the published observation on the site
 
 ---
 
@@ -100,8 +129,11 @@ reviewed and approved by the contributor.
   preserved even after an observation is modified or removed — the Git
   record will show that it existed and was changed or removed, though
   the content itself is removed from the current version
-- **Audio recordings** (from interviews) are deleted after the transcript is reviewed and
-  approved by you
+- **Original submissions** are kept as permanent private archival
+  records. They are never published. If you request removal, both the
+  published observation and the private original are removed
+- **Audio recordings** (from interviews) are deleted after the transcript
+  is reviewed and approved by you
 - **Raw form submissions** in Formspree and email are deleted after your
   observation is formatted and published
 
@@ -167,7 +199,7 @@ page.
 
 ---
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-20*
 
 *Licensing for published observations has not yet been decided. When a
 licensing model is adopted, it will be documented here and reflected in

@@ -96,6 +96,9 @@ to include.
 <label for="display_name">Display name (optional — leave blank to appear anonymously)</label>
 <input type="text" name="display_name" id="display_name" placeholder="Name, nickname, or leave blank">
 
+<label for="email">Email (optional — never published. If you plan to contribute more than once, this lets me link your observations together privately, so your record builds over time.)</label>
+<input type="email" name="email" id="email" placeholder="Never published — only for linking your entries">
+
 <label for="age_range">Age range (optional)</label>
 <select name="age_range" id="age_range">
   <option value="">—</option>
@@ -112,7 +115,7 @@ to include.
 ---
 
 <div class="checkbox-group">
-  <label><input type="checkbox" name="consent" required> I am 18 or older. This is my own observation in my own words. I understand it will be published as part of a public archive, and I consent to The Water of Life processing and publishing the information I have chosen to provide, including any health-related information. I can request removal at any time by contacting the <a href="../privacy/">archive steward</a>.</label>
+  <label><input type="checkbox" name="consent" required> I am 18 or older. This is my own observation in my own words. I understand it may be lightly edited for clarity and format, and will be published as part of a public archive. I consent to The Water of Life processing, editing, and publishing the information I have chosen to provide, including any health-related information. I can request removal at any time by contacting the <a href="../privacy/">archive steward</a>.</label>
 </div>
 
 <button type="submit">Add observation</button>
