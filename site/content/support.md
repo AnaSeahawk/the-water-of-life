@@ -2,14 +2,16 @@
 title: Support the archive
 ---
 
-I started this archive because I got tired of waiting for someone with
-authority to do it. No one was coming. So I began.
+I come from a family of record-keepers. My great-aunt kept journals
+everywhere she lived — from the coffee fincas of Chiapas to the Arizona
+desert — and those journals are now historical primary sources in
+libraries and universities. This archive carries the same impulse.
 
 I am a practitioner myself. I hold this archive by hand — reading each
-observation, listening to the conversations, and caring for the record
-as it grows. There is no grant behind this. No sponsor. No organization.
-Just me, the work, and the conviction that a living practice deserves
-somewhere for its observations to be recorded.
+submission, listening to the conversations, and caring for the record as
+it grows. There is no grant behind this. No sponsor. No organization.
+Just me, the work, and the conviction that a community's observations
+deserve somewhere to be kept.
 
 Running costs are near zero — the archive is hosted free on GitHub. What
 takes time is stewardship: reviewing contributions, transcribing
