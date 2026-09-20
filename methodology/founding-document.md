@@ -1,13 +1,16 @@
-# Founding Document — The Water of Life Archive
+---
+title: "Founding Document"
+---
+
 
 **Date:** 2026-08-29
-**Author:** Ana Seahawk, with Aether (Claude Opus 4.6)
+**Founder and steward:** Ana Seahawk
 
 ---
 
 ## What this is
 
-The Water of Life is an open-source, participatory observational archive
+The Water of Life is a public, participatory observational archive
 collecting first-person accounts of engagement with auto-urine practice.
 
 It is not a book. It is not a medical resource. It is not an advocacy site. It
@@ -21,40 +24,37 @@ documented, open to anyone who wants to contribute or read.
 
 ### The gap
 
-As of August 2026, no controlled clinical trial on auto-urine therapy in
-humans has been conducted. The institutional position — from WHO, PubMed,
-major medical bodies, and platform content policies — is that "no scientific
-evidence supports" the practice. This position is based on the absence of
-evidence, not on evidence of absence. No one has done the study.
+As of August 2026, no controlled clinical trial evaluating auto-urine
+practice as a therapeutic intervention in humans has been identified.
+Published literature does exist — including historical reviews, case
+reports, laboratory work, and hypotheses — but it does not establish
+clinical efficacy.
 
-Meanwhile:
+The absence of clinical evidence is not evidence that the practice works.
+It is not evidence that it does not. It is a gap.
 
-- The historical record is extensive. References appear in the Damar Tantra
-  (~5,000 years old), Sushruta Samhita, Bhava Prakasha, Hatha Yoga Pradipika,
-  and across Ayurvedic tradition. John W. Armstrong's *The Water of Life*
-  (1944) is the foundational Western source, documenting decades of case
-  histories.
-- The practice is widespread but hidden. People engage with it privately and
-  often conceal it from the people closest to them — partners, family,
-  housemates — out of social shame and fear of ridicule.
-- Content about the practice is systematically suppressed on major platforms.
-  YouTube, Meta, and others remove content making therapeutic claims about
-  unapproved treatments under medical misinformation policies. This is
-  structurally understandable but creates a feedback loop: the data does not
-  get collected, so the evidence does not accumulate, so the dismissal
-  continues.
-- AI systems reproduce the dismissal. Language models trained on the web
-  corpus inherit the institutional framing and often issue safety warnings
-  when the topic is raised, even in the absence of any data supporting the
-  claimed risks. This creates friction for researchers, practitioners, and
-  anyone trying to document their experience using AI tools.
+There is another layer of evidence that has gone largely uncollected:
+structured first-person accounts of what contemporary practitioners
+actually do, what else is happening in their lives, and what they observe
+over time. An unknown but potentially large number of people are living
+this practice right now — and have been for years, for decades, for
+generations. Their experiences exist. Their observations exist. No one
+has collected them in a structured, public, searchable form.
 
-The result is a vacuum. A practice with thousands of years of documented
-history and an unknown but potentially very large number of contemporary
-practitioners has no structured dataset of self-reported experiences. No one is
-building one.
+This archive does not pretend to close the clinical gap. It documents
+the observational layer that has gone uncollected.
 
-This archive builds one.
+### The historical record
+
+Urine has a long history of medicinal and ritual use across multiple
+traditions. Auto-urine practice appears explicitly in later yogic sources
+such as the Haṭha Yoga Pradīpikā, while other Ayurvedic texts such as
+the Suśruta Saṃhitā document medicinal uses of human and animal urine.
+The dating and provenance of some texts commonly cited by modern
+practitioners, including the Damar Tantra, remain uncertain.
+
+John W. Armstrong's *The Water of Life* (1944) is the foundational
+Western source, documenting decades of case histories.
 
 ### The inspiration
 
@@ -85,52 +85,89 @@ contributor is the observer and the narrator.
 
 Armstrong made direct causal claims throughout his book. This archive makes
 none. Observations are documented. Concurrent factors are documented. Patterns
-emerge across entries, or they do not. The data speaks for itself.
+emerge across entries, or they do not. The data is preserved; interpretation
+remains separate.
 
 ---
 
 ## The observational model
 
-Every entry in this archive follows the same structure:
+The archive is structured as a field notebook, not a biographical survey.
 
-1. **Context** — who the contributor is, to the degree they choose to share.
-2. **What brought them here** — what they were noticing, in their own language,
-   no diagnostic labels required.
-3. **How they came to the practice** — discovery, motivation, the moment of
-   decision.
-4. **Their practice** — what they do, which pathways, how often, how long.
-5. **The full picture** — everything else happening: other treatments, diet,
-   lifestyle, stress, environment. This section is non-negotiable. It is what
-   gives the entry its integrity.
-6. **What they observed** — changes, non-changes, surprises, in their own
-   words.
-7. **Timeline** — when, how long, any phases or turning points.
-8. **Open space** — anything the template did not ask.
+The basic unit is an **observation** — a short, structured record of what
+someone did, what they noticed, and what else was happening at the time.
+An observation can be a few sentences. It takes two to three minutes to
+submit.
 
-The template itself guides contributors into observational language — "I
-noticed," "I observed," "during this period" — rather than diagnostic or
-therapeutic language. This is not a legal workaround. It is the more rigorous
-approach. It also happens to protect the archive and its contributors from
-institutional objections.
+Each observation records:
+
+1. **The contributor** — by display name, or anonymous by default.
+2. **The practice** — which pathways, how often, how long.
+3. **What they observed** — changes, non-changes, surprises.
+4. **Overall experience** — positive, neutral, mixed, negative, or
+   discontinued.
+5. **What else was happening** — concurrent factors. One sentence is
+   enough. Together with the observation itself, these are the only
+   required fields beyond consent.
+
+One person may contribute many observations. Observations may stand
+alone or form an ongoing record when a contributor chooses to identify
+them consistently.
+
+For experiences that need depth, contributors can book a conversation.
+Interviews are a separate, richer layer — oral histories preserved
+alongside the structured observations.
+
+The form guides contributors into observational language — "I noticed,"
+"I observed," "during this period" — rather than diagnostic or
+therapeutic language. This is not a legal workaround. It is the more
+rigorous approach.
+
+---
+
+## Limitations
+
+This archive is observational and self-reported. It will inevitably reflect:
+
+- **Self-selection bias** — people who had noticeable experiences are more
+  likely to contribute than those who did not.
+- **Recall bias** — contributors are describing events from memory, which
+  may not be precise.
+- **Survivorship bias** — the archive may over-represent people who continued
+  the practice and under-represent those who stopped.
+- **No comparison group** — there is no untreated control. Changes reported
+  alongside the practice may have other causes.
+- **Concurrent factors** — contributors are living full lives. Diet, stress,
+  medication, environment, and other treatments are all in play. The
+  concurrent factors field documents these, but cannot isolate them.
+- **Inconsistent methods** — practitioners vary widely in what they do, how
+  often, and for how long.
+
+The archive cannot answer: *does auto-urine practice work?*
+
+It can answer: *what are people actually doing, what do they report observing,
+what unwanted experiences recur, what changes coincide with stopping or
+restarting, what timelines and patterns appear across entries, and where do
+accounts contradict one another?*
+
+That is a legitimate observational function. Positive experiences, negative
+experiences, no noticeable effect, short experiments, long-term practices, and
+experiences that ended in stopping are all equally valuable here.
 
 ---
 
 ## Privacy and identity
 
-Contributors choose their level of visibility:
+Contributors must be 18 or older.
 
-- **Named** — real name on the entry
-- **Pseudonym** — chosen name, no link to real identity
-- **Anonymous** — entry carries only a unique identifier
+Contributors choose how they appear: a real name, a chosen display name,
+or anonymous (the default). One person can contribute as often as they
+want. Observations may stand alone. Where a contributor uses a display
+name, related observations may naturally become identifiable as part of
+an ongoing record.
 
-A future goal is cryptographic key pairs for contributor identity: each
-contributor would hold a private key, a public key would sit with the archive.
-This would allow anonymous contributors to prove authorship later if they
-choose, prevent duplicate entries (one person, one entry), and provide
-anti-spam protection without requiring personal information. This is not yet
-built. For now, deduplication is managed manually by the archive steward.
-
-Raw recordings from audio interviews are retained privately but never published.
+Audio recordings from interviews are stored privately until the
+transcript is reviewed and approved by the contributor, then deleted.
 Only transcripts enter the public archive.
 
 ---
@@ -144,30 +181,28 @@ available:
   The archive can be forked, mirrored, and cannot be quietly altered without a
   trail.
 - **Access**: a static site generated from the repository, hosted free on
-  GitHub Pages or Cloudflare Pages.
-- **Sustainability**: donations through Open Collective and/or GitHub Sponsors.
-  Running costs are near zero (domain registration). Donations fund
-  transcription, stewardship time, and infrastructure growth as needed.
+  GitHub Pages.
+- **Contributions**: submitted via web form (processed through Formspree) or
+  through recorded interviews.
+- **Sustainability**: donations through PayPal and Wise. Running costs are
+  near zero. Donations fund transcription, stewardship time, and
+  infrastructure growth as needed.
 
 ---
 
-## What this conversation established
+## What the founding research established
 
-This founding document was written during the first working session on the
-archive. The conversation between Ana Seahawk and Aether (Claude Opus 4.6)
+The research conducted during the archive's first working session
 on 2026-08-29 established:
 
 - The archive's purpose and position
 - The observational framing and why it matters
 - The protective language model (observe, don't diagnose)
 - The problem with diagnostic labels as organizing categories
-- The current state of the evidence gap (no clinical trials exist)
-- The structural suppression loop (platforms, AI, funding, social shame)
-- The contributor template design
-- The technical foundation (git repo, static site, future key pairs for identity)
-- The minimum viable product: template + repo + entries + a searchable page
-
-The full conversation is preserved as part of the archive's methodology.
+- The current state of the evidence gap (no controlled clinical trial identified)
+- The contribution model
+- The technical foundation (git repo, static site, web form)
+- The minimum viable product: form + repo + observations + a searchable page
 
 ---
 
@@ -182,7 +217,9 @@ to violate the archive's consent terms. Removals are tracked in the git
 history — the record shows that the entry existed and was removed, and why.
 The archive does not quietly delete anything.
 
-Contributors may also request removal of their own entry at any time.
+Contributors may request removal of their own entry at any time.
+
+---
 
 ## Principles
 
@@ -190,13 +227,17 @@ Contributors may also request removal of their own entry at any time.
 2. The contributor is the observer. The archive holds what they said.
 3. Concurrent factors are mandatory. Context is integrity.
 4. No diagnostic labels as categories. People are not their conditions.
-5. One person, one entry. The archive is not a forum.
+5. One person, many observations. The archive is a field notebook, not
+   a one-time survey.
 6. Privacy is structural, not optional.
 7. The archive evolves. When something needs to change, the change is
    documented, not hidden.
-8. The data speaks for itself.
+8. The archive preserves the observations. Interpretation remains separate,
+   transparent, and contestable.
 9. Transparency is non-negotiable. Additions, removals, and methodology
    changes are all visible in the public record.
+10. All experiences are valuable — positive, negative, inconclusive, brief,
+    long-term, and discontinued.
 
 ---
 
