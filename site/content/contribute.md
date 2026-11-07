@@ -1,11 +1,11 @@
 ---
-title: Add an observation
+title: Share an account
 ---
 
 What did you do? What did you notice? What else was changing?
 
 That is all an observation needs to be. Two minutes. A few sentences. One
-moment in your practice, recorded.
+moment of practice, recorded.
 
 > *"Fresh urine orally, once daily, about six weeks. Skin irritation
 > gradually reduced. Also stopped alcohol and changed diet during the
@@ -20,17 +20,18 @@ moment in your practice, recorded.
 All three belong in the collective record. Positive, negative, neutral, mixed,
 discontinued — every observation matters.
 
-You can come back and add more over time. This is a field notebook, not
-a one-time survey.
+A field notebook, added to over time. One account or many.
 
-If your experience has depth that a short form can't hold, or you'd
-rather talk than type,
-[book a conversation](https://cal.com/anaseahawk/the-water-of-life-a-conversation)
-instead.
+Each account is retold for the archive with light editing, then
+published, where it stays. A name appears only when one is given, and
+comes off the site on request.
 
-Contributors must be 18 or older. Details you share may make you
-recognizable to people who know you — consider this when deciding what
-to include.
+For an experience with more depth than a short form holds, or for
+talking rather than typing:
+[book a conversation](https://cal.com/anaseahawk/the-water-of-life-a-conversation).
+
+Contributors are 18 or older. Details in an account can make a person
+recognizable to those who know them.
 
 ---
 
@@ -93,11 +94,11 @@ to include.
 
 ---
 
-<label for="display_name">Display name (optional — leave blank to appear anonymously)</label>
+<label for="display_name">Name to show with this account (optional — left blank, no name appears)</label>
 <input type="text" name="display_name" id="display_name" placeholder="Name, nickname, or leave blank">
 
-<label for="email">Email (optional — never published. If you plan to contribute more than once, this lets me link your observations together privately, so your record builds over time.)</label>
-<input type="email" name="email" id="email" placeholder="Never published — only for linking your entries">
+<label for="email">Email (optional — for the mailing list of upcoming events. Never published, never connected to an account.)</label>
+<input type="email" name="email" id="email" placeholder="Mailing list only">
 
 <label for="age_range">Age range (optional)</label>
 <select name="age_range" id="age_range">
@@ -115,10 +116,10 @@ to include.
 ---
 
 <div class="checkbox-group">
-  <label><input type="checkbox" name="consent" required> I am 18 or older. This is my own observation in my own words. I understand it may be lightly edited for clarity and format, and will be published as part of a public archive. I consent to The Water of Life processing, editing, and publishing the information I have chosen to provide, including any health-related information. I can request removal at any time by contacting the <a href="../privacy/">archive steward</a>.</label>
+  <label><input type="checkbox" name="consent" required> I am 18 or older and this account is my own. It may be retold with light editing and published in The Water of Life archive, where it stays, including any health details shared here. A name given here comes off the site on request. <a href="../privacy/">Privacy &amp; Data</a></label>
 </div>
 
-<button type="submit">Add observation</button>
+<button type="submit">Share account</button>
 
 </form>
 
