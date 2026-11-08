@@ -31,7 +31,7 @@ jobs:
 
       - name: Build
         working-directory: site
-        run: hugo --minify --baseURL "https://anaseahawk.github.io/the-water-of-life/"
+        run: hugo --minify --baseURL "https://water.mother-spirit.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -28,10 +28,10 @@ the-water-of-life/
 
 ## Contributing
 
-Visit the website and [add an observation](https://anaseahawk.github.io/the-water-of-life/contribute/).
+Visit the website and [add an observation](https://water.mother-spirit.com/contribute/).
 For experiences that need depth, [book a conversation](https://cal.com/anaseahawk/the-water-of-life-a-conversation).
 
-Read the [founding document](https://anaseahawk.github.io/the-water-of-life/methodology/founding-document/)
+Read the [founding document](https://water.mother-spirit.com/methodology/founding-document/)
 for the reasoning behind the archive's design.
 
 ## Support the archive
